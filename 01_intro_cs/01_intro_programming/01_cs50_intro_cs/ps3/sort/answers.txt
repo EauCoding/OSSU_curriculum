@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Omega O is way faster than Big O.
+
+sort2 uses: Merge Sort
+
+How do you know?: Big O and Omega O are almost the same and faster than any other sorting algorithm.
+
+sort3 uses: Selection Sort
+
+How do you know?: Big O and Omega O are almost the same and slower than any other sorting algorithm.
